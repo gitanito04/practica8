@@ -1,0 +1,13 @@
+table {
+    border: red 1px solid;
+}
+
+td.a {
+    border-width: 3px;
+    border-color: blue;
+    border-style: solid;
+}
+
+td.3 {
+    
+}
