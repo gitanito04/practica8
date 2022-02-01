@@ -8,6 +8,7 @@ td.a {
     border-style: solid;
 }
 
-td.3 {
-    
+table.t{
+   border: green 1px solid;
+   
 }
