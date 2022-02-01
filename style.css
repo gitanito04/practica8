@@ -10,4 +10,6 @@ td.a {
 
 table.t{
    border: green 1px solid;
+   width: 30%;
+   text-align: center;
 }
